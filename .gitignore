@@ -1,0 +1,4 @@
+.idea/
+data/train_photos.tgz
+data/test_photos.tgz
+.DS_Store

@@ -1,1 +1,1 @@
-# kaggle-western-australia-rental-prices
+# Kaggle: Yelp Restaurant Photo Classification
